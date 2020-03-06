@@ -4,7 +4,7 @@
 1. [Descripcion](#Descripcion)
 2. [Conocimientos requeridos](#Conocimientos)
 
-Links:
+### Enlaces:
 
 - [Codigo Fuente](https://github.com/joeljesusmota/ICD_Facturacion)
 - [Flujograma](https://docs.google.com/document/d/1zNJ8kf0DNy_1mvT6EEOnGsfgEuK2OPKvPHoPXIAsdZY/edit?usp=sharing)
