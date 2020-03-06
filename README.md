@@ -1,8 +1,8 @@
 # Documento oficial del proyecto ICD_Facturacion
 
-## Índice de contenidos
+### Índice de contenidos
 1. [Descripcion](#Descripcion)
-2. [Conocimientos Requeridos](#Conocimientos)
+2. [Conocimientos requeridos](#Conocimientos)
 
 Links:
 
