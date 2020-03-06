@@ -21,11 +21,11 @@ Este es un pequeño proyecto para que los colaboradores del mismo adquieran las 
 
   - Diseñar un sitio web
   - Usar la logica para resolñver problemas cotidianos en programacion
-  - Aprender Python, Django, Mysql entre otras tecnologias
+  - Aprender lo basico de Python, Django, Mysql entre otras tecnologias
   
 En su primera etapa o version el programa deberia poder cumplir con lo siguiente:
 
-  - Crear y consultar Facturas
+  - Crear y consultar facturas
   - CRUD de los productos
   
  > Una vez se halla cumplido con eso, pasaremos a etapas de desarrollo mas complejas
