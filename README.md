@@ -1,4 +1,4 @@
-# Documento oficial del proyecto ICD_Facturacion
+# Documento pricipal del proyecto ICD_Facturacion
 
 ### Índice
 1. [Descripcion](#Descripcion)
