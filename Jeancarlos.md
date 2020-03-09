@@ -1,3 +1,0 @@
-# jean calos mauricio
-
-# bendiciones

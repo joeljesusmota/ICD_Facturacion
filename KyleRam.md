@@ -1,2 +1,0 @@
-# Kyle Ramirez 
-### Lakeshwow
