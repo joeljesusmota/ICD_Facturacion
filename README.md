@@ -3,6 +3,7 @@
 ### Índice
 1. [Descripcion](#Descripcion)
 2. [Conocimientos requeridos](#Conocimientos)
+3. [Glosario](#Glosario)
 
 ### Enlaces:
 
@@ -50,3 +51,9 @@ y en menor medida
 - Mysql (Gestor de bases de Datos)
 - Kanban (Metodologia)
 - Programacion orientada a objetos
+
+<a name="Glosario"></a>
+
+## Glosario
+ 
+ - *Modelo* Un modelo de base de datos es un tipo de modelo de datos que determina la estructura lógica de una base de datos y de manera fundamental determina el modo de almacenar, organizar y manipular los datos
